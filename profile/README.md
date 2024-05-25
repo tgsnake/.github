@@ -24,4 +24,4 @@ Our website : https://tgsnake.js.org/
 Our discussion group : https://t.me/tgsnakechat   
 Our telegram channel : https://t.me/tgsnake   
 
-[Snake icons created by Freepik - Flaticon](https://www.flaticon.com/free-icon/snake_1660410)
+[Old Snake icons created by Freepik - Flaticon](https://www.flaticon.com/free-icon/snake_1660410)
