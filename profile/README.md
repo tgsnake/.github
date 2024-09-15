@@ -1,13 +1,13 @@
 ![tgsnake_image](https://tgsnake.js.org/images/tgsnake.jpg)
 
 
-Welcome to **tgsnake**, this is a MTProto framework for typescript or javascript.  
+Welcome to **tgsnake**, this is a MTProto framework and library for typescript or javascript.  
 We have several packages that we have published and you can use them:  
   
- - `@tgsnake/core` : Core framework that connects the telegram server with the client. `(🦕 Deno support)`  
- - `@tgsnake/parser` : Framework for parsing markdown or html into a format supported by telegram. `(🦕 Deno support)`  
- - `@tgsnake/fileid` : Framework for creating id files like api bots have.  
- - `@tgsnake/log` : Just a logger framework, to beautify the display in the terminal. `(🦕 Deno, 🌐 Browser support)`  
+ - `@tgsnake/core` : Core library that connects the telegram server with the client. `(🦕 Deno support, 🌐 Browser support)`  
+ - `@tgsnake/parser` : Library for parsing markdown or html into a format supported by telegram. `(🦕 Deno support)`  
+ - `@tgsnake/fileid` : Library for creating id files like api bots have.  
+ - `@tgsnake/log` : Just a logger Library, to beautify the display in the terminal. `(🦕 Deno, 🌐 Browser support)`  
   
 And anymore you can take a look the repository (don't forget to leaving stars).
   
